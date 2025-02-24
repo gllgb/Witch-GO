@@ -1,0 +1,10 @@
+[
+{"id":1,"name":"生命药水","icon":"PotionRed","type":1,"tips":"最大生命上限+10"},
+{"id":2,"name":"迅捷药水","icon":"PotionYellow","type":1,"tips":"移动速度+1"},
+{"id":3,"name":"混沌药水","icon":"PotionGreen","type":1,"tips":"神秘的药水，看起来不太妙"},
+{"id":4,"name":"法力药水","icon":"PotionBlue","type":1,"tips":"攻击力+5"},
+{"id":5,"name":"补给","icon":"HeartFull","type":2,"tips":"生命值恢复10点"},
+{"id":6,"name":"残缺的补给","icon":"HeartHalf","type":2,"tips":"生命值恢复5点"},
+{"id":7,"name":"高阶魔法杖","icon":"WandT2","type":3,"tips":"精心打造的魔法杖，缩减施法间隔"},
+{"id":8,"name":"高阶魔导书","icon":"TomeRed","type":3,"tips":"上古魔导师的著作，一次能发射多枚火球了"}
+]
